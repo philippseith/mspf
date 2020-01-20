@@ -22,7 +22,6 @@ twitter_username: MyrrMyrrMyrr
 github_username: philippseith
 minimal_mistakes_skin: plum
 search: true
-logo: "/assets/images/88x88.png"
 
 # Build settings
 markdown: kramdown
