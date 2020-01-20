@@ -1,6 +1,6 @@
 ---
 title: "Miriam is born!"
-date: 1996-01-21T01:34:30-04:00
+date: 1996-01-21T01:34:30+01:00
 categories:
   - blog
 tags:
@@ -18,7 +18,7 @@ Contradictions came and the couple moved to the theater. Meanwhile the 21th of J
 
 And there she was!
 
-![New born Miriam](/assets/images/newborn.jpg){:class="img-responsive"}
+![New born Miriam](/assets/images/newborn.jpg)
 
 And the young couple became parents.
 

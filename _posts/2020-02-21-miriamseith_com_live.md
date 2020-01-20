@@ -1,6 +1,6 @@
 ---
 title: "Go Live miriamseith.com"
-date: 1996-01-21T01:34:30-04:00
+date: 2020-01-21T08:00:00+01:00
 categories:
   - blog
 tags:
