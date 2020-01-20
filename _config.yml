@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Miriam Seith"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/miri.jpg"
   bio    : "Designer based in Berlin"
   links:
     - label: "Website"
@@ -73,7 +73,7 @@ author:
       url: "https://github.com/philippseith"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mirrjeweles"
+      url: "https://www.instagram.com/myrrjeweles/"
 
 footer:
   links:
@@ -85,7 +85,7 @@ footer:
       url: "https://github.com/philippseith"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mirrjeweles"
+      url: "https://www.instagram.com/myrrjeweles/"
 
 defaults:
   # _posts

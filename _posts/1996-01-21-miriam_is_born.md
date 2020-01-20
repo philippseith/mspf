@@ -9,7 +9,7 @@ tags:
 ---
 
 A young couple told to each other the day before: "Heut mache mer mal nix". But hardly dusk did dawn,they had to move to the hospital.
-
+more-->
 Contradictons came and went. The couple watched [Sommersby][sommersby] on TV.
 
 Contradictons came and went. The couple watched [Doctor Zhivago][zhivago] on TV.
