@@ -18,7 +18,7 @@ Contradictions came and the couple moved to the theater. Meanwhile the 21th of J
 
 And there she was!
 
-![New born Miriam](/assets/images/newborn.jpg)
+![New born Miriam](https://philippseith.github.io/mspf/assets/images/newborn.jpg)
 
 And the young couple became parents.
 
