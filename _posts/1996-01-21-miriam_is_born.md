@@ -20,6 +20,9 @@ And there she was!
 
 ![New born Miriam](/assets/images/newborn.jpg){:class="img-responsive"}
 
+And the young couple became parents.
+
 
 [sommersby]: https://en.wikipedia.org/wiki/Sommersby
 [zhivago]: https://en.wikipedia.org/wiki/Doctor_Zhivago_(film)
+
