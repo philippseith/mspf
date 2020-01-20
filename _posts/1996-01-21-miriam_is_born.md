@@ -9,7 +9,7 @@ tags:
 ---
 
 A young couple told to each other the day before: "Heut mache mer mal nix". But hardly dusk did dawn,they had to move to the hospital.
-more-->
+<!--more-->
 Contradictons came and went. The couple watched [Sommersby][sommersby] on TV.
 
 Contradictons came and went. The couple watched [Doctor Zhivago][zhivago] on TV.
@@ -17,6 +17,8 @@ Contradictons came and went. The couple watched [Doctor Zhivago][zhivago] on TV.
 Contradictions came and the couple moved to the theater. Meanwhile the 21th of January 1996 had begun.
 
 And there she was!
+
+![New born Miriam](/assets/images/newborn.jpg){:class="img-responsive"}
 
 
 [sommersby]: https://en.wikipedia.org/wiki/Sommersby
